@@ -1,10 +1,10 @@
 # Ignore unnecessary folders
 
-__pyache__/
+__pycache__/
 test/
 i18n/
 help/
 
-# Ignore config files 
+# Ignore config files
 
 *.cfg
